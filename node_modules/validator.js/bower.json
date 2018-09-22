@@ -1,0 +1,30 @@
+{
+  "name": "validator.js",
+  "license": "MIT",
+  "author": {
+    "name": "Guillaume Potier",
+    "email": "guillaume@wisembly.com",
+    "url": "http://guillaumepotier.com/"
+  },
+  "main": [
+    "./dist/validator.min.js"
+  ],
+  "keywords": [
+    "validation",
+    "validator",
+    "node",
+    "browser",
+    "library"
+  ],
+  "ignore": [
+    "**/.*",
+    "bin",
+    "src",
+    "tests",
+    "*.json",
+    ".gitignore",
+    ".travis.yml",
+    "Gruntfile.js"
+  ],
+  "version": "2.0.3"
+}
