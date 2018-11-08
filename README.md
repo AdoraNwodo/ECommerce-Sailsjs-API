@@ -1,6 +1,7 @@
 # EverythingShop
 
 An ECommerce app built with [Sails v1](https://sailsjs.com)
+[![license](https://img.shields.io/github/license/AdoraNwodo/ECommerce-Sailsjs-API.svg)](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/license)
 
 
 ### Links
