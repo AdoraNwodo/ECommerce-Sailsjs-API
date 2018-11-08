@@ -1,6 +1,6 @@
-# everythingshop
+# EverythingShop
 
-a [Sails v1](https://sailsjs.com) application
+An ECommerce app built with [Sails v1](https://sailsjs.com)
 
 
 ### Links
