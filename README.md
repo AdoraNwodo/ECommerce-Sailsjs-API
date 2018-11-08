@@ -1,5 +1,6 @@
 # EverythingShop
 
+[![Build Status](https://semaphoreci.com/api/v1/adoranwodo/ecommerce-sailsjs-api/branches/master/shields_badge.svg)](https://semaphoreci.com/adoranwodo/ecommerce-sailsjs-api)
 [![license](https://img.shields.io/github/license/AdoraNwodo/ECommerce-Sailsjs-API.svg)](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/license)
 [![issues](https://img.shields.io/github/issues/AdoraNwodo/ECommerce-Sailsjs-API.svg)](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/issues)
 
