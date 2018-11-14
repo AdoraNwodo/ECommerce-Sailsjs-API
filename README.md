@@ -13,3 +13,5 @@ API for an ECommerce app built with [Sails v1](https://sailsjs.com)
 4. Get Emails and Texts concerning orders
 
 
+# License 
+MIT. Please see the [License](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/license) file below.
