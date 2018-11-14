@@ -14,4 +14,4 @@ API for an ECommerce app built with [Sails v1](https://sailsjs.com)
 
 
 # License 
-MIT. Please see the [License](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/license) file below.
+MIT. Please see the [license](https://github.com/AdoraNwodo/ECommerce-Sailsjs-API/license) file below.
