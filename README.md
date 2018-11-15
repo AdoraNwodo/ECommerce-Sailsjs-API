@@ -6,7 +6,7 @@
 
 API for an ECommerce app built with [Sails v1](https://sailsjs.com)
 
-##### Users are able to:
+#### Users are able to:
 1. Register
 2. Login
 3. Place Orders
