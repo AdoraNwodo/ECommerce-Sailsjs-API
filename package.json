@@ -18,7 +18,7 @@
     "sails": "^1.0.2",
     "sails-hook-grunt": "^3.0.2",
     "sails-hook-orm": "^2.0.0-16",
-    "sails-hook-sockets": "^1.4.0",
+    "sails-hook-sockets": "^1.5.5",
     "sails-mysql": "^1.0.0",
     "sails-service-mailer": "^3.2.1",
     "sparkpost": "^2.1.2",
